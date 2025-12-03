@@ -142,7 +142,7 @@ Main tables include:
 ### **1. Clone the Repository**
 
 ```
-git clone https://github.com/yourusername/AutoArchive.git
+git clone https://github.com/Gerry-13/AutoArkive
 ```
 
 ### **2. Backend Setup**
