@@ -1,0 +1,6 @@
+@AutoArkive_HostAddress = http://localhost:5219
+
+GET {{AutoArkive_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
